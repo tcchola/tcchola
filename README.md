@@ -2,8 +2,9 @@
 
 **`Digital Craftsman (Developer and Graphic Designer)`**
 
-//fill in
-
+Hi, I'm a freelance graphic designer as well as a web developer<br/>
+mainly focusing on font-end but also working on full-stack web applications.<br/> 
+Always open to work on interesting projects and design commissions.
    
 ---
 
@@ -52,9 +53,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
 ### 📊 Stats
 
 ![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcchola&show_icons=true&theme=gruvbox)
-
-#
-
-<details>
- <summary><h3>👨‍💻 Tarik's Coding Journey</h3></summary>
-   //fill in
