@@ -1,4 +1,4 @@
-# 🧙‍♂️ Tarik C.
+# 🧙‍♂️ Tarik
 
 **`Digital Craftsman (Developer and Graphic Designer)`**
 
