@@ -7,7 +7,7 @@
 - Graphic Design
 
 ### ⚒ My favorite projects:
-- [StramGene](https://github.com/tcchola/streamgene)
+- [StreamGene](https://github.com/tcchola/streamgene)
 - [Rosalind ](https://github.com/tcchola/bioinformatics)
 - [Small OS in C#](https://github.com/tcchola/malos)
 ---
