@@ -3,7 +3,7 @@
 ### 🔬 I like to make web apps that do some usefull stuff in my free time.
 - AI / Machine Learning
 - Data Analysis
-- Research Paper Writing
+- Research
 - Graphic Design
 ---
 ## 💻Tech Stack
