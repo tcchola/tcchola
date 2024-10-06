@@ -3,8 +3,8 @@
 ### 🔬 I like to make web apps that do some usefull stuff in my free time.
 - AI / Machine Learning
 - Data Analysis
-- Research
-- Graphic Design
+- Web Design
+- Graphic/UI Design
 ---
 ## 💻Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
